@@ -1,6 +1,6 @@
-# Final-Project
+# GUI Program
 
-This project was written in C#.
+This program was written in C#.
 
 This project is a betting game.  
 
