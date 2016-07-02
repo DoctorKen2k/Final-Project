@@ -33,5 +33,6 @@ The winner dog is displayed in the middle and the loser dog icon is displayed wi
 You can select options in the top for a new game, exit the game, or help for more information.
 
 Thanks,
+
 Ken
 
