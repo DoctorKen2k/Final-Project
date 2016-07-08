@@ -4,7 +4,9 @@ This program was written in C#.
 
 This project is a betting game.  
 
-The project simulates two dogs fighting. 
+The project simulates two dogs fighting.
+
+When you unzip the file and navigate to the folder where you would see numerous of files, open the one titled, "BettingDogs."
 
 You will start the program and a GUI window will appear.  
 
